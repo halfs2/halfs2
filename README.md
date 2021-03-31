@@ -6,6 +6,6 @@
 ### About me
 I'm a C# { net, netcore } developer. I currently work with .net core and angular at [@progit](https://progit.com.br/).
 I also work with { python, docker, terraform, nginx, linux, windows, IIS, SQL server, postgreSql, mySql }
-I am currently studying design patterns, domain driven design, SOLID, distributed systems and messaging broker { rabbitMQ } 
+Currently studying design patterns, domain driven design, SOLID, distributed systems and messaging broker { rabbitMQ } 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=halfs2&count_private=true&show_icons=true)
