@@ -15,4 +15,4 @@ I am currently studying design patterns, domain driven design, SOLID, distribute
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halfs2&layout=compact)](https://github.com/halfs2/github-readme-stats)
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=XynoxTheDev&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=halfs2&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
