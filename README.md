@@ -9,10 +9,3 @@ I also work with { python, docker, terraform, nginx, linux, windows, IIS, SQL se
 I am currently studying design patterns, domain driven design, SOLID, distributed systems and messaging broker { rabbitMQ } 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=halfs2&count_private=true&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halfs2&count_private=true)](https://github.com/halfs2/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halfs2&layout=compact)](https://github.com/halfs2/github-readme-stats)
-
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=XynoxTheDev&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
