@@ -6,7 +6,7 @@
 ### About me
 I'm a C# { net, netcore } developer. I currently work with .net core and angular at [@progit](https://progit.com.br/).
 
-I also work with { vue, javascript, python, docker, terraform, nginx, linux, windows, IIS, SQL Server, postgreSql, mySql, aws, azure, digital ocean, ci/cd }.
+I also work with { vue, javascript, python, docker, nginx, linux, windows, IIS, SQL Server, postgreSql, mySql, aws, azure, digital ocean, ci/cd }.
 
 Currently studying design patterns, domain driven design, SOLID, distributed systems and messaging broker { rabbitMQ } 
 
