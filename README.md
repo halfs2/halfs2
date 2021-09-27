@@ -11,3 +11,5 @@ I also work with { vue, javascript, python, docker, nginx, linux, windows, IIS, 
 Currently studying design patterns, domain driven design, SOLID, distributed systems and messaging broker { rabbitMQ } 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=halfs2&count_private=true&show_icons=true&theme=dracula)
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=halfs2&layout=compact)]
