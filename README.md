@@ -12,4 +12,6 @@ Currently studying design patterns, domain driven design, SOLID, distributed sys
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=halfs2&count_private=true&show_icons=true&theme=dracula)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=halfs2&layout=compact)]
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=halfs2&layout=compact)
+
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=halfs2)]
